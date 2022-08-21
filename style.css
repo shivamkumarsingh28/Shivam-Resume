@@ -11,7 +11,8 @@ h5 {
 }
 
 img {
-    margin-left: 31.2rem;
+    margin: auto;
+    align-items: center
 }
 
 #MainMenu {
