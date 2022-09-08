@@ -9,6 +9,12 @@ import datetime
 import base64
 import streamlit.components.v1 as components
 
+from streamlit.components.v1 import html
+
+# Define your javascript
+my_js = """
+confirm("U Want Hire Me Open Sidebar");
+"""
 
 #make it look nice from the start
 # st.set_page_config(layout='wide',initial_sidebar_state='collapsed')
