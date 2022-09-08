@@ -12,10 +12,7 @@ import streamlit.components.v1 as components
 from streamlit.components.v1 import html
 
 # Define your javascript
-my_js = """
-confirm("U Want Hire Me Open Sidebar");
-"""
-html(f"<script>{my_js}</script>")
+
 #make it look nice from the start
 # st.set_page_config(layout='wide',initial_sidebar_state='collapsed')
 st.set_page_config(
@@ -29,6 +26,11 @@ st.set_page_config(
          'About': "# This is a header. This is an *extremely* cool app!"
      }
  )
+my_js = """
+confirm("U Want Hire Me Open Sidebar");
+"""
+html(f"<script>{my_js}</script>")
+
 #####################
 # Navigation
 
