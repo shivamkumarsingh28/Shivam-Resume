@@ -138,16 +138,9 @@ if menu_id == "Shivam Kumar Singh":
   # SHIVAM KUMAR SINGH, Entrepreneur.
   ##### *Resume* 
   ''')
-  col1, col2, col3 = st.columns([1,6,1])
-
-  with col1:
-    st.write("")
-
-  with col2:
-    image = Image.open('dp1.jpg')
-    st.image(image, width=150)
-  with col3:
-    st.write("")
+  
+  image = Image.open('dp1.jpg')
+  st.image(image, width=150)
   
   st.markdown('## Summary', unsafe_allow_html=True)
   st.info('''
