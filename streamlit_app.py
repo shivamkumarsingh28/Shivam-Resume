@@ -133,27 +133,22 @@ with open("style.css") as f:
 
 #####################
 if menu_id == "Shivam Kumar Singh":
-  # col1, col2, col3 = st.columns(3)
-
-  # with col1:
-  #   link = '[SaeeAM Whatsapp :computer::smile:](https://chat.whatsapp.com/KvqQTGzvYp405hofDsHyuO)'
-  #   st.markdown(link, unsafe_allow_html=True)
-  # with col2:
-  #   link = '[SaeeAM Business :world_map: :smile:](https://g.page/r/CR93AGLEpeP_EAE)'
-  #   st.markdown(link, unsafe_allow_html=True)
-  # with col3:
-  #   link = '[SaeeAM Telegram :arrow_forward::smile:](https://t.me/+4Wwajk1RorA0OTE9)'
-  #   st.markdown(link, unsafe_allow_html=True)
-    
-  # Header 
+  
   st.write('''
   # SHIVAM KUMAR SINGH, Entrepreneur.
   ##### *Resume* 
   ''')
+col1, col2, col3 = st.beta_columns([1,6,1])
 
-  image = Image.open('dp1.jpg')
-  st.image(image, width=150)
+  with col1:
+    st.write("")
 
+  with col2:
+    image = Image.open('dp1.jpg')
+    st.image(image, width=150)
+  with col3:
+    st.write("")
+  
   st.markdown('## Summary', unsafe_allow_html=True)
   st.info('''
   - **Who I AM** `Teacher, Entrepreneur, Sportperson, CEO, Leader, Programmer, Developer, Student, Humble Person, And Honest On Work`.
