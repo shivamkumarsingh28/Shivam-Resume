@@ -39,7 +39,7 @@ def SaeeAM_query(query):
     rows = rows.fetchall()
     return rows
 
-sheet_url = "https://docs.google.com/spreadsheets/d/1AUUOpmJuftHrZ3RCjnKHGGZ1mF9GdLQtx3ravbNDYyM/edit?usp=sharing"
+sheet_url = "https://docs.google.com/spreadsheets/d/1AUUOpmJuftHrZ3RCjnKHGGZ1mF9GdLQtx3ravbNDYyM"
 Database = SaeeAM_query(f'SELECT * FROM "{sheet_url}"')
 
 def datafetch(a, b, c):
