@@ -160,12 +160,6 @@ st.markdown('''
 - SUBJECTS `MATH, BOTANY, ZOOLOGY`.
 ''')
 
-txt('**ITI- TECHNICAL TRAINING** (WELDER TRADE), *AKS- ARAB KI SARAI*, DELHI-NIZAMUDDIN',
-'2020-2021')
-st.markdown('''
-- PERCENTAGE: `75%`
-- SUBJECTS `MATH & SCIENCE, TRADE THEORY, WORKSHOP-PRACTICAL, IT & COMMUNICATION SKILL, ENGINEERING DRAWING`.
-''')
 
 txt('**INTERMEDIATE 12TH** (SCIENCE - PCM), *SHYAM DARI YAMUNA HIGH SCHOOL*, BIHAR, *BIHAR BOARD*',
 '2017-2019')
@@ -186,6 +180,13 @@ st.markdown('''
 #####################
 st.markdown('''
 ## Work Experience
+''')
+
+txt('**BYJU'S Think And Learn PVT.LTD**, BDA-Role, Bangalore-Prestige Tech Park',
+'2022')
+st.markdown('''
+- CTC: `10L Yearly`.
+- Work: Comunication with parents/student through call understand any guide and help required for both of them. Guide and help parents and student through zoom counselling session and also provide byju's product solution.`.
 ''')
 
 txt('**Content Creator**, [SaeeAM Education YouTube Channel](https://www.youtube.com/watch?v=PIKz3R4Nqpc&list=PLF7OcypGGslKsmS8uqCOjLoWJqYPai_Us)',
@@ -237,21 +238,6 @@ st.markdown('''
 - WHAT WE DO `Sales, Pitching, Product-Describe, And More ...`
 - WHAT WE LEARN `Sales, Communication-skill, Personality-Development, Customer-handling, Product-Diling And More ...`.
 ''')
-txt('**YAMAHA PVT.LTD**, ITI-WELDER, UP',
-'2022')
-st.markdown('''
-- CTC-IN HAND: `120K Yearly`
-- WHAT WE DO `Engine Mounting, Gauging, Panasonic Robot Operator, Welding Frame, Quality Checking, And More ...`
-- WHAT WE LEARN `Technical Knowledage, Apprentienship`.
-''')
-
-txt('**MARUTI SUZUKI PVT.LTD**, ITI-WELDER, DELHI',
-'2022')
-st.markdown('''
-- CTC-IN HAND: `240K Yearly`.
-''')
-
-
 
 #####################
 
