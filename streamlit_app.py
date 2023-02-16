@@ -183,10 +183,12 @@ st.markdown('''
 ''')
 
 txt('**BYJUS Think And Learn PVT.LTD**, BDA-Role, Bangalore-Prestige Tech Park',
-'2022')
+'2023')
 st.markdown('''
 - CTC: `10L Yearly`.
-- Work: Comunication with parents/student through call understand any guide and help required for both of them. Guide and help parents and student through zoom counselling session and also provide byju's product solution.`.
+- Period: `3-Week Training Period`.
+- Work: `Comunication with parents/student through call understand any guide and help required for both of them. Guide and help parents and student through zoom counselling session and also provide byju's product solution.`.
+- Achievement: `18-Inside sales booking`, `10-Co-conduction self Do`, `6-shadowing`, `18-Hours Talk Time`.
 ''')
 
 txt('**Content Creator**, [SaeeAM Education YouTube Channel](https://www.youtube.com/watch?v=PIKz3R4Nqpc&list=PLF7OcypGGslKsmS8uqCOjLoWJqYPai_Us)',
