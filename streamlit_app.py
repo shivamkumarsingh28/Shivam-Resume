@@ -182,7 +182,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**BYJU'S Think And Learn PVT.LTD**, BDA-Role, Bangalore-Prestige Tech Park',
+txt('**BYJUS Think And Learn PVT.LTD**, BDA-Role, Bangalore-Prestige Tech Park',
 '2022')
 st.markdown('''
 - CTC: `10L Yearly`.
